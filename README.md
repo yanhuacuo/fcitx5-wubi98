@@ -73,3 +73,10 @@ sh set.sh
 仅当上述两份插件的源码放在 [librime/plugins](https://github.com/rime/librime/tree/master/plugins) 下编译时，才可使用更完整、更强大的 [满血配置](https://github.com/yanhuacuo/fcitx5-wubi98/blob/main/fcitx5-rime-with-lua.tar.gz)
 
 - 满血配置参考 [小狼毫98五笔功能介绍](https://gitee.com/wubi98/weasel-98wb/blob/master/ReadMe.md)
+
+## 国内链接
+
+- 五笔小筑 https://wubi98.gitee.io
+- 98五笔资源库 https://wb98.gitee.io/
+- 永硕网盘 http://98wb.ys168.com/
+- 98五笔主页 http://www.98wubi.com/
