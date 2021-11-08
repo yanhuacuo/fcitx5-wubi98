@@ -1,2 +1,1 @@
-# fcitx5-issues
-不能使用的 fcitx5 码表（bug反馈）
+Linux发行版通用的 Fcitx5 原生98五笔码表
