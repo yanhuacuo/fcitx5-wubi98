@@ -70,4 +70,4 @@ sh set.sh
 
 当前这份 fcitx5-rime 是基于我们过去的 opencc 滤镜配置实现的，之所以没有使用更强大的 lua 配置，是因为像 debian 官方仓库的这些打包人员，对 rime 所知甚少，在源码打包时，没有添加 [lua](https://github.com/hchunhui/librime-lua) 与 [charcode](https://github.com/rime/librime-charcode) 两个 librime 的「插件」。
 
-仅当上述两份插件的源码放在 [librime/plugins](https://github.com/rime/librime/tree/master/plugins) 下编译时，才可使用更完整、更强大的 [满血配置]（https://github.com/yanhuacuo/fcitx5-issues/blob/main/fcitx5-rime-with-lua.tar.gz）
+仅当上述两份插件的源码放在 [librime/plugins](https://github.com/rime/librime/tree/master/plugins) 下编译时，才可使用更完整、更强大的 [满血配置](https://github.com/yanhuacuo/fcitx5-issues/blob/main/fcitx5-rime-with-lua.tar.gz)
