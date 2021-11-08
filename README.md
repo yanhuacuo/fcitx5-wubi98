@@ -16,14 +16,14 @@ fcitx5 原生支持自有二进制码表，以实现一些形码方案的挂入�
 
 ![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/01.png)
 
-解压后，给予 `set.sh` 脚本执行权限并执行：
+- 解压后，给予 `set.sh` 脚本执行权限并执行：
 
 ```
 sudo chmod 777 set.sh
 sh set.sh
 ```
 
-典型的配置步骤分享：
+- 典型的配置步骤分享：
 
 ![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/02.png)
 
@@ -33,7 +33,13 @@ sh set.sh
 
 ![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/05.png)
 
+- 注意配置微调一下
 
+要禁掉「调频」+「自动组词」，需要小心设置一下
+
+![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/11.png)
+
+![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/12.png)
 
 ### fcitx5-rime
 
