@@ -33,7 +33,7 @@ sh set.sh
 
 ![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/05.png)
 
-- 注意配置微调一下
+- 注意配置微调一下（最新配置文件已调好全部参数，无需再手动修改）
 
 要禁掉「调频」+「自动组词」，需要小心设置一下
 
