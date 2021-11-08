@@ -14,7 +14,7 @@ fcitx5 原生支持自有二进制码表，以实现一些形码方案的挂入�
 
 如果你的发行版（ 比如 debian11 ) 已官方内置了 fcitx5 框架，那么仅需将配置文件放入即可。
 
-![pic](https://github.com/yanhuacuo/fcitx5-issues/raw/main/1108/01.png)
+![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/01.png)
 
 解压后，给予 `set.sh` 脚本执行权限并执行：
 
@@ -25,13 +25,13 @@ sh set.sh
 
 典型的配置步骤分享：
 
-![pic](https://github.com/yanhuacuo/fcitx5-issues/raw/main/1108/02.png)
+![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/02.png)
 
-![pic](https://github.com/yanhuacuo/fcitx5-issues/raw/main/1108/03.png)
+![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/03.png)
 
-![pic](https://github.com/yanhuacuo/fcitx5-issues/raw/main/1108/04.png)
+![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/04.png)
 
-![pic](https://github.com/yanhuacuo/fcitx5-issues/raw/main/1108/05.png)
+![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/05.png)
 
 
 
@@ -39,19 +39,19 @@ sh set.sh
 
 你需要安装一下『fcitx5-rime』这个包，装好之后，才可进行如下操作
 
-![pic](https://github.com/yanhuacuo/fcitx5-issues/raw/main/1108/06.png)
+![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/06.png)
 
 - 字体支持
 
-![pic](https://github.com/yanhuacuo/fcitx5-issues/raw/main/1108/07.png)
+![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/07.png)
 
 - 安放 rime 配置
 
-![pic](https://github.com/yanhuacuo/fcitx5-issues/raw/main/1108/08.png)
+![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/08.png)
 
-![pic](https://github.com/yanhuacuo/fcitx5-issues/raw/main/1108/09.png)
+![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/09.png)
 
-![pic](https://github.com/yanhuacuo/fcitx5-issues/raw/main/1108/10.png)
+![pic](https://github.com/yanhuacuo/fcitx5-wubi98/raw/main/1108/10.png)
 
 在添加成功『中州韵』后，可以使用如下功能：
 
@@ -70,6 +70,6 @@ sh set.sh
 
 当前这份 fcitx5-rime 是基于我们过去的 opencc 滤镜配置实现的，之所以没有使用更强大的 lua 配置，是因为像 debian 官方仓库的这些打包人员，对 rime 所知甚少，在源码打包时，没有添加 [lua](https://github.com/hchunhui/librime-lua) 与 [charcode](https://github.com/rime/librime-charcode) 两个 librime 的「插件」。
 
-仅当上述两份插件的源码放在 [librime/plugins](https://github.com/rime/librime/tree/master/plugins) 下编译时，才可使用更完整、更强大的 [满血配置](https://github.com/yanhuacuo/fcitx5-issues/blob/main/fcitx5-rime-with-lua.tar.gz)
+仅当上述两份插件的源码放在 [librime/plugins](https://github.com/rime/librime/tree/master/plugins) 下编译时，才可使用更完整、更强大的 [满血配置](https://github.com/yanhuacuo/fcitx5-wubi98/blob/main/fcitx5-rime-with-lua.tar.gz)
 
 - 满血配置参考 [小狼毫98五笔功能介绍](https://gitee.com/wubi98/weasel-98wb/blob/master/ReadMe.md)
